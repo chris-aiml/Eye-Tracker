@@ -1,10 +1,8 @@
 # Eye-Tracker
 Modular, Extensible Eye-Tracking solution
-[Youtube Video Demonstration](https://youtu.be/zDN-wwd5cfo "Eye tracking")
 
 ## Overview
 A **very** accurate eye-tracking software.
-![What it looks like](https://i.imgur.com/DQRmibk.png)
 
 ## Features
 - Cross-platform
@@ -51,5 +49,4 @@ Options & Arguments:
  `file` means the image will be static, good for debugging or development. Path can be specified in the `STATIC_FILE_PATH` setting
 
 * There are some Environment variables that can  be specified to change the behaviour. Like `DEBUG_DUMP` to set whether a dump should be made when the program crashes
-## Developer
-- Stepan Filonov (@stepacool) stepanfilonov@gmail.com
+
